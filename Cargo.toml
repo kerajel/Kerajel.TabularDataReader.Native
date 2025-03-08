@@ -1,0 +1,11 @@
+[package]
+name = "kerajel_tabular_data_reader"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+calamine = "0.26.1"
+csv = "1.3.1"

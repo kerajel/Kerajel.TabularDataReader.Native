@@ -1,0 +1,1 @@
+cargo build --release; Copy-Item .\target\release\kerajel_tabular_data_reader.dll ..\Kerajel.TabularDataReader\lib\kerajel_tabular_data_reader.dll -Force
