@@ -6,4 +6,5 @@ Note: The `OperationResult` model is derived from [Kerajel.Primitives](https://g
 
 For build instructions, please refer to the `build` file.
 
+## License
 MIT Licensed.
